@@ -5,7 +5,7 @@ ruby '2.6.3'
 
 gem 'rails', '~> 6.0.2'
 gem 'sqlite3', '~> 1.4'
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 gem 'simple_form', '~> 5.0', '>= 5.0.1'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'paperclip', '~> 6.1'
